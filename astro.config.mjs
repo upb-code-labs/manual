@@ -17,6 +17,12 @@ export default defineConfig({
 					]
 				},
 				{
+					label: 'Users (General)',
+					items: [
+						{ label: 'Profile management', link: '/guides/users/profile-management' },
+					]
+				},
+				{
 					label: 'Admins',
 					items: [
 						// { label: 'Introduction', link: '/guides/introduction/' },
