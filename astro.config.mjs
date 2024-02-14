@@ -26,6 +26,7 @@ export default defineConfig({
 					label: 'Teachers',
 					items: [
 						{ label: 'Courses management', link: '/guides/teachers/courses-management' },
+						{ label: 'Rubrics management', link: '/guides/teachers/rubrics-management' },
 					]
 				},
 				{
