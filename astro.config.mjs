@@ -16,7 +16,30 @@ export default defineConfig({
 						{ label: 'Introduction', link: '/guides/introduction/' },
 					]
 				},
-				
+				{
+					label: 'Admins',
+					items: [
+						// { label: 'Introduction', link: '/guides/introduction/' },
+					]
+				},
+				{
+					label: 'Teachers',
+					items: [
+						{ label: 'Courses management', link: '/guides/teachers/courses-management' },
+					]
+				},
+				{
+					label: 'Students',
+					items: [
+						//{ label: 'Introduction', link: '/guides/introduction/' },
+					]
+				},
+				{
+					label: 'Maintainers',
+					items: [
+						//{ label: 'Introduction', link: '/guides/introduction/' },
+					]
+				},
 			],
 		}),
 	],
