@@ -3,6 +3,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site:"https://upb-code-labs.github.io", 
+	base: "/manual",
 	integrations: [
 		starlight({
 			title: 'Code Labs manual',
