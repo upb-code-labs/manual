@@ -65,6 +65,10 @@ Cuando creas un nuevo curso, se genera automáticamente un código de invitació
 
 Después de eso, aparecerá una notificación verde en la esquina inferior derecha de la pantalla, confirmando que el código de invitación se ha copiado al portapapeles y podrás pegarlo donde lo necesites presionando `Ctrl + V` o `Cmd + V` en tu teclado o haciendo clic derecho y seleccionando la opción `Pegar`, como lo harías con cualquier otro texto copiado.
 
+:::note
+Los códigos de invitación pueden expirar de acuerdo a la configuración realizada por el administrador de la plataforma. Si el código de invitación ha expirado, un nuevo código de invitación será generado automáticamente al copiarlo siguiendo los pasos descritos anteriormente.
+:::
+
 ## Gestionar participantes
 
 ### Añadir un estudiante a un curso

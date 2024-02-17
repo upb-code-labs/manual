@@ -48,7 +48,7 @@ export default defineConfig({
 				{
 					label: 'Estudiantes',
 					items: [
-						//{ label: 'Introduction', link: '/guides/introduction/' },
+						{ label: 'Gestión de cursos', link: '/guides/students/courses-management' },
 					]
 				},
 				{
