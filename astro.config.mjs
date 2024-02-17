@@ -50,6 +50,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Gestión de cursos', link: '/guides/students/courses-management' },
 						{ label: 'Gestión de laboratorios', link: '/guides/students/laboratories-management' },
+						{ label: 'Gestión de notas', link: '/guides/students/grades-management' },
 					]
 				},
 				{
