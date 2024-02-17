@@ -41,6 +41,7 @@ export default defineConfig({
 						{ label: 'Gestión de cursos', link: '/guides/teachers/courses-management' },
 						{ label: 'Gestión de rúbricas', link: '/guides/teachers/rubrics-management' },
 						{ label: 'Gestión de laboratorios', link: '/guides/teachers/laboratories-management' },
+						{ label: 'Gestión de notas', link: '/guides/teachers/grades-management' },
 					]
 				},
 				{
