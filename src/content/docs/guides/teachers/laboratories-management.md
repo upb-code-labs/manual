@@ -25,6 +25,8 @@ Por defecto, serás redirigido a la pestaña `Laboratories` de la vista del curs
 
 :::note
 Las fechas de apertura y cierre usan la zona horaria `UTC -5`, es decir, la zona horaria de `Colombia`. Esto no puede ser cambiado y siempre se usará la misma zona horaria, independientemente de la zona horaria en la que te encuentres.
+
+Una vez se alcance la fecha de cierre del laboratorio, los estudiantes podrán seguir viendo el contenido del laboratorio pero **NO** podrán enviar nuevas soluciones a los bloques de pruebas.
 :::
 
 :::tip
@@ -146,3 +148,21 @@ Puedes mover los bloques de texto y pruebas hacia arriba o hacia abajo para camb
 :::note
 No es posible mover hacia arriba el primer bloque del laboratorio ni mover hacia abajo el último bloque del laboratorio ya que no hay un bloque anterior o posterior con el cual intercambiar la posición.
 :::
+
+## Monitorear un laboratorio
+
+Para monitorear el progreso de los estudiantes en un laboratorio, haz clic en el botón `View progress` del laboratorio que deseas monitorear en la tabla de laboratorios:
+
+![Captura de pantalla con una flecha señalando el botón para ver el progreso de un laboratorio](../../../../assets/teachers/laboratories/monitor-laboratory/1.jpg)
+
+Una vez que hayas hecho clic en el botón `View progress`, serás redirigido a la vista de progreso del laboratorio, donde podrás tres gráficos que muestran el progreso de los estudiantes en el laboratorio.
+
+El primer gráfico es un gráfico de barras horizontal cuyo eje `X` representa cuántas pruebas (bloques de prueba) han sido completadas, han fallado, están siendo ejecutadas o están pendientes de ejecución y cuyo eje `Y` contiene el nombre de cada estudiante:
+
+![Captura de pantalla mostrando el gráfico de barras horizontal con el progreso de los estudiantes en el laboratorio](../../../../assets/teachers/laboratories/monitor-laboratory/2.jpg)
+
+Si requieres actualizar la información, puedes hacer click en el botón con el icono de recargar en la esquina superior derecha del gráfico.
+
+El segundo y tercer gráfico son gráficos de dona que muestran el porcentaje de estudiantes que han completado todas las pruebas (bloques de prueba) y el promedio de pruebas completadas por los estudiantes, respectivamente:
+
+![Captura de pantalla mostrando los gráficos de dona con el porcentaje de estudiantes que han completado todas las pruebas y el promedio de pruebas completadas por los estudiantes](../../../../assets/teachers/laboratories/monitor-laboratory/3.jpg)
