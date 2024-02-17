@@ -49,6 +49,7 @@ export default defineConfig({
 					label: 'Estudiantes',
 					items: [
 						{ label: 'Gestión de cursos', link: '/guides/students/courses-management' },
+						{ label: 'Gestión de laboratorios', link: '/guides/students/laboratories-management' },
 					]
 				},
 				{
