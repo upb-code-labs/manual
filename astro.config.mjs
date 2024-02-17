@@ -32,7 +32,8 @@ export default defineConfig({
 				{
 					label: 'Administradores',
 					items: [
-						// { label: 'Introduction', link: '/guides/introduction/' },
+						{ label: 'Gestión de cuentas con rol de administrador', link: '/guides/admins/admin-accounts-management' },
+						{ label: 'Gestión de cuentas con rol de profesor', link: '/guides/admins/teacher-accounts-management' },
 					]
 				},
 				{
