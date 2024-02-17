@@ -19,4 +19,4 @@ Después de eso, aparecerá una notificación verde en la esquina inferior derec
 
 ## Cambiar la visibilidad de un curso
 
-Si deseas ocultar o mostrar un curso en la vista de cursos, sigue los pasos descritos en la sección [Cambiar la visibilidad de un curso](/guides/teachers/courses-management#cambiar-la-visibilidad-de-un-curso) de la guía para profesores.
+Si deseas ocultar o mostrar un curso en la vista de cursos, sigue los pasos descritos en la sección [Cambiar la visibilidad de un curso](/manual/guides/teachers/courses-management#cambiar-la-visibilidad-de-un-curso) de la guía para profesores.

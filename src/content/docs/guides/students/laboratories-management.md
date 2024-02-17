@@ -61,4 +61,4 @@ Una vez se alcance la fecha de cierre del laboratorio, seguirás pudiendo ver el
 
 Por favor, lee las guías específicas para cada lenguaje soportado para conocer más sobre las consideraciones específicas que debes tener en cuenta al enviar tu solución en cada lenguaje:
 
-- [JAVA](/guides/students/languages-specific-considerations/java/)
+- [JAVA](/manual/guides/students/languages-specific-considerations/java/)

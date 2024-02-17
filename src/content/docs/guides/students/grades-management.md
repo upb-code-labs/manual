@@ -7,7 +7,7 @@ description: Guía para que los estudiantes puedan ver y entender sus notas en l
 
 Para ver la nota que has obtenido en uno de los laboratorios de un curso, sigue estos pasos:
 
-1. Haz clic en el botón `View grade` en la fila del laboratorio del que deseas ver la nota. Recuerda que, para ver la tabla de laboratorios, debes acceder a la vista del curso haciendo clic en la tarjeta del curso, tal como se explica en la [guía de gestión de laboratorios](/guides/students/laboratories-management#ver-contenido-de-un-laboratorio):
+1. Haz clic en el botón `View grade` en la fila del laboratorio del que deseas ver la nota. Recuerda que, para ver la tabla de laboratorios, debes acceder a la vista del curso haciendo clic en la tarjeta del curso, tal como se explica en la [guía de gestión de laboratorios](/manual/guides/students/laboratories-management#ver-contenido-de-un-laboratorio):
 
 ![Captura de pantalla con una flecha señalando el botón View grade](../../../../assets/students/grades/view-grade/1.jpg)
 

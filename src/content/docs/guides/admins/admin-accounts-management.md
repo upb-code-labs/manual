@@ -29,7 +29,7 @@ Es importante que asignes una contraseña segura a la nueva cuenta de administra
 
 ## Editar una cuenta de administrador
 
-En la plataforma, **NO** es posible que un administrador modifique la información de otra cuenta. Cada usuario tiene la posibilidad y responsabilidad de actualizar la información de su propia cuenta y su contraseña. Para ello, sigue los pasos descritos en la [guía de gestión de cuentas de usuario](/guides/users/profile-management).
+En la plataforma, **NO** es posible que un administrador modifique la información de otra cuenta. Cada usuario tiene la posibilidad y responsabilidad de actualizar la información de su propia cuenta y su contraseña. Para ello, sigue los pasos descritos en la [guía de gestión de cuentas de usuario](/manual/guides/users/profile-management).
 
 ## Eliminar una cuenta de administrador
 

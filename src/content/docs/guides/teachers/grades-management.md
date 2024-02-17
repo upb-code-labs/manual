@@ -5,7 +5,7 @@ description: Guía para que los profesores gestionen las notas de los estudiante
 
 Antes de comenzar, ten en cuenta que, en la plataforma Code Labs, los profesores únicamente pueden calificar a los estudiantes en sus laboratorios si previamente han asignado una `rúbrica` al `laboratorio` correspondiente. Esto con el fin de que las calificaciones sean más transparentes y los estudiantes puedan comprender qué se espera de ellos en cada laboratorio.
 
-Si necesitas conocer cómo crear una rúbrica, puedes consultar la [guía de creación de rúbricas](/guides/teachers/rubrics-management/#crear-una-nueva-r%C3%BAbrica) y si deseas saber cómo asignar una rúbrica a un laboratorio, puedes consultar la [guía para editar la información de laboratorios](/guides/teachers/laboratories-management#editar-la-informaci%C3%B3n-del-laboratorio).
+Si necesitas conocer cómo crear una rúbrica, puedes consultar la [guía de creación de rúbricas](/manual/guides/teachers/rubrics-management/#crear-una-nueva-r%C3%BAbrica) y si deseas saber cómo asignar una rúbrica a un laboratorio, puedes consultar la [guía para editar la información de laboratorios](/manual/guides/teachers/laboratories-management#editar-la-informaci%C3%B3n-del-laboratorio).
 
 ## Calificar laboratorios
 

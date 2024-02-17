@@ -117,7 +117,7 @@ Además, cada bloque de pruebas tiene un botón para descargar el archivo `zip` 
 
 Por favor, lee las guías específicas para cada lenguaje soportado para conocer más sobre las consideraciones específicas que debes tener en cuenta al escribir las pruebas en cada lenguaje:
 
-- [JAVA](/guides/teachers/languages-specific-considerations/java/)
+- [JAVA](/manual/guides/teachers/languages-specific-considerations/java/)
 
 #### Editar un bloque de pruebas
 
