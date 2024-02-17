@@ -1,6 +1,6 @@
 ---
 title: Gestión de cursos
-description: Documento de guía para que los profesores creen, renombren, oculten y copien el código de invitación de un curso en la plataforma Code Labs.
+description: Documento de guía para que los profesores creen, renombren, cambien la visibilidad, copien el código de invitación y gestionar participantes en los cursos de la plataforma Code Labs.
 ---
 
 ## Crear un nuevo curso
@@ -64,3 +64,51 @@ Cuando creas un nuevo curso, se genera automáticamente un código de invitació
 ![Captura de pantalla mostrando cómo seleccionar la opción para copiar el código de invitación de un curso](../../../../assets/teachers/courses/invitation-code/1.jpg)
 
 Después de eso, aparecerá una notificación verde en la esquina inferior derecha de la pantalla, confirmando que el código de invitación se ha copiado al portapapeles y podrás pegarlo donde lo necesites presionando `Ctrl + V` o `Cmd + V` en tu teclado o haciendo clic derecho y seleccionando la opción `Pegar`, como lo harías con cualquier otro texto copiado.
+
+## Gestionar participantes
+
+### Añadir un estudiante a un curso
+
+Los estudiantes pueden unirse a un curso utilizando el código de invitación que se genera automáticamente al crear un nuevo curso, sin embargo, si deseas añadir manualmente a un estudiante a un curso, sigue estos pasos:
+
+1. Ingresa a la vista del curso al que deseas añadir al estudiante haciendo clic en la tarjeta del curso:
+
+![Captura de pantalla mostrando cómo seleccionar un curso para añadir un estudiante](../../../../assets/teachers/courses/add-student/1.jpg)
+
+2. Por defecto, serás redirigido a la pestaña `Laboratories` de la vista del curso. Para cambiar a la pestaña de participantes, haz click en la opción `Manage participants` en la barra lateral de la vista del curso para acceder a la tabla de estudiantes inscritos en el curso:
+
+![Captura de pantalla mostrando cómo cambiar a la pestaña de participantes en la vista del curso](../../../../assets/teachers/courses/add-student/2.jpg)
+
+3. Haz clic en el botón `Enroll student`:
+
+![Captura de pantalla con una flecha señalando el botón para añadir un estudiante al curso](../../../../assets/teachers/courses/add-student/3.jpg)
+
+4. Ingresa el nombre del estudiante en el modal para buscarlo y haz clic en estudiante que deseas agregar en la lista de resultados. Para mayor facilidad, en la lista de resultados se mostrará el nombre completo y el ID institucional del estudiante:
+
+![Captura de pantalla mostrando el modal para buscar y añadir un estudiante al curso](../../../../assets/teachers/courses/add-student/4.jpg)
+
+Después de eso, aparecerá una notificación verde en la esquina inferior derecha de la pantalla, confirmando que el estudiante se ha añadido correctamente al curso y la tabla de estudiantes se actualizará con el nuevo estudiante.
+
+### Desactivar la participación de un estudiante en un curso
+
+Es posible desactivar la participación de un estudiante en un curso, lo cual evitará que el estudiante pueda acceder al curso y su contenido. Para desactivar la participación de un estudiante en un curso, sigue estos pasos:
+
+1. Ingresa a la vista de participantes del curso al que deseas desactivar la participación del estudiante siguiendo los pasos 1 y 2 de la sección [Añadir un estudiante a un curso](#añadir-un-estudiante-a-un-curso).
+
+2. Haz clic en el botón `Deactivate` de la fila correspondiente al estudiante que deseas desactivar:
+
+![Captura de pantalla con una flecha señalando el botón para desactivar la participación de un estudiante en el curso](../../../../assets/teachers/courses/update-student-status/1.jpg)
+
+Después de eso, aparecerá una notificación verde en la esquina inferior derecha de la pantalla, confirmando que el estudiante se ha desactivado correctamente el botón `Deactivate` se cambiará por el botón `Activate`.
+
+### Activar la participación de un estudiante en un curso
+
+Si deseas que un estudiante vuelva a tener acceso al curso y su contenido, puedes activar su participación siguiendo estos pasos:
+
+1. Ingresa a la vista de participantes del curso al que deseas activar la participación del estudiante siguiendo los pasos 1 y 2 de la sección [Añadir un estudiante a un curso](#añadir-un-estudiante-a-un-curso).
+
+2. Haz clic en el botón `Activate` de la fila correspondiente al estudiante que deseas activar:
+
+![Captura de pantalla con una flecha señalando el botón para activar la participación de un estudiante en el curso](../../../../assets/teachers/courses/update-student-status/2.jpg)
+
+Después de eso, aparecerá una notificación verde en la esquina inferior derecha de la pantalla, confirmando que el estudiante se ha activado correctamente y el botón `Activate` se cambiará por el botón `Deactivate`.
