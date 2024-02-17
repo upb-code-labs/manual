@@ -1,6 +1,6 @@
 ---
-title: Getting started
-description: A guide to get started with the Code Labs manual.
+title: Introducción
+description: Documento de introducción al manual de usuario de la plataforma Code Labs.
 ---
 
-In the sidebar you can find a section per each role in the platform. Each section contains a list of guides with images and instructions to help you understand how to use the platform.
+En la barra lateral puedes encontrar una sección por cada rol en la plataforma. Cada sección contiene una lista de guías con imágenes e instrucciones para ayudarte a entender cómo usar la plataforma.

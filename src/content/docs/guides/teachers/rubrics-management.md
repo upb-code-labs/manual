@@ -1,148 +1,144 @@
 ---
-title: Rubrics management
-description: A guide for teachers to create, edit and delete rubrics in the Code Labs platform.
+title: Gestión de rúbricas
+description: Guía para que los profesores creen, editen y eliminen rúbricas en la plataforma Code Labs.
 ---
 
-## Create a new rubric
+## Crear una nueva rúbrica
 
-Once you have logged in to the platform, you can access the rubrics view by clicking on the `Rubrics` tab in the top navigation bar.
+Una vez que hayas iniciado sesión en la plataforma, puedes acceder a la vista de rúbricas haciendo clic en la pestaña `Rubrics` en la barra de navegación superior. Una vez allí, sigue estos pasos para crear una nueva rúbrica:
 
-To create a new rubric, follow these steps:
+1. Haz clic en el botón `Create rubric`:
 
-1. Click on the `Create rubric` button:
+![Captura de pantalla con una flecha señalando el botón para crear una nueva rúbrica](../../../../assets/teachers/rubrics/create-rubric/1.jpg)
 
-![Screenshot highlighting the button to create a new rubric](../../../../assets/teachers/rubrics/create-rubric/1.jpg)
+2. Ingresa el nombre de la rúbrica en el modal. Te sugerimos que uses un nombre lo suficientemente descriptivo para que puedas identificar fácilmente la rúbrica. Una vez que hayas ingresado el nombre, haz clic en el botón `Create`:
 
-2. Fill in the modal with the rubric's name. We suggest you to use a descriptive enough name so that you can easily identify the rubric. Once you have filled in the name, click on the `Create` button:
+![Captura de pantalla mostrando el modal para crear una nueva rúbrica](../../../../assets/teachers/rubrics/create-rubric/2.jpg)
 
-![Screenshot showing how to fill and submit the modal to create a new rubric](../../../../assets/teachers/rubrics/create-rubric/2.jpg)
+Una vez que hayas creado la rúbrica, aparecerá una notificación verde en la esquina inferior derecha de la pantalla, confirmando que la rúbrica se ha creado correctamente y aparecerá una nueva fila en la tabla de rúbricas con el nombre de la rúbrica y botones para editarla y eliminarla:
 
-Once you have created the rubric, a green notification will appear at the right-bottom corner of the screen, confirming that the rubric has been created successfully and a row with the rubric's name and the actions to edit and delete it will appear in the rubrics table:
+![Captura de pantalla mostrando la notificación y la fila de la nueva rúbrica en la tabla de rúbricas](../../../../assets/teachers/rubrics/create-rubric/3.jpg)
 
-![Screenshot showing the notification and the rubric's row in the rubrics table](../../../../assets/teachers/rubrics/create-rubric/3.jpg)
+## Editar una rúbrica
 
-## Edit a rubric
+Para entrar en la vista de edición de una rúbrica, haz clic en el botón con el texto `Edit` en la fila de la rúbrica:
 
-To enter into the rubric's edition view, click on the button with the `Edit` label in the rubric's row:
+![Captura de pantalla con una flecha señalando el botón para editar la rúbrica](../../../../assets/teachers/rubrics/edit-rubric/1.jpg)
 
-![Screenshot highlighting the button to edit a rubric](../../../../assets/teachers/rubrics/edit-rubric/1.jpg)
-
-Once you have clicked on the `Edit` button, you will be redirected to the rubric's edition view. Here you can rename the rubric and add, edit and delete the objectives and criteria of the rubric.
+Una vez que hayas hecho clic en el botón `Edit`, serás redirigido a la vista de edición de la rúbrica. Aquí puedes renombrar la rúbrica y agregar, editar o eliminar sus objetivos y criterios.
 
 :::note
-By default, the rubric will have a single objective and a single criteria. You can remove or update them as you need.
+Por defecto, la rúbrica tendrá un objetivo y un criterio de ejemplo. Puedes eliminarlos o actualizarlos según tus necesidades.
 :::
 
-### Rename a rubric
+### Renombrar una rúbrica
 
-At the top of the rubric's edition view, you will find the input to rename the rubric. By default, the input will be filled with the current name of the rubric, you can change it and then click on the `Update` button to confirm the changes:
+En la parte superior de la vista de edición de la rúbrica, encontrarás el campo para renombrar la rúbrica. Por defecto, valor del campo será nombre actual de la rúbrica, puedes cambiarlo y luego hacer clic en el botón `Update` para confirmar los cambios:
 
-![Screenshot showing the input to rename a rubric](../../../../assets/teachers/rubrics/edit-rubric/rename-1.jpg)
+![Captura de pantalla mostrando el campo de entrada para renombrar  la rúbrica y el botón para confirmar los cambios](../../../../assets/teachers/rubrics/edit-rubric/rename-1.jpg)
 
 :::caution
-Changes made to the rubric's name **WILL NOT** be saved automatically, you need to click on the `Update` button to confirm the changes.
+Los cambios realizados al nombre de la rúbrica **NO** se guardarán automáticamente, debes hacer clic en el botón `Update` para confirmar los cambios.
 :::
 
-### Add an objective
+### Agregar un objetivo
 
-Rubrics are composed of objectives which are composed of criteria. In the rubric's edition view, each objective and its criteria will be displayed as a row of cards. The first card will be the objective and the following cards will be the criteria of the objective.
+Las rúbricas están compuestas por objetivos que a su vez están compuestos por criterios. En la vista de edición de la rúbrica, cada objetivo y sus criterios se mostrarán como una fila de tarjetas. La primera tarjeta será el objetivo y las siguientes tarjetas serán los criterios del objetivo. Para agregar un nuevo objetivo, sigue estos pasos:
 
-To add a new objective, follow these steps:
+1. Haz clic en el botón `Add objective` que se encuentra debajo de la última fila de objetivos:
 
-1. Click on the `Add objective` button above the last objective's row:
+![Captura de pantalla con una flecha señalando el botón para agregar un nuevo objetivo](../../../../assets/teachers/rubrics/edit-rubric/add-objective-1.jpg)
 
-![Screenshot highlighting the button to add a new objective](../../../../assets/teachers/rubrics/edit-rubric/add-objective-1.jpg)
+2. Completa el modal con la descripción del objetivo y haz clic en el botón `Create`. Te sugerimos que, como es usual, incluyas las respuestas a las preguntas `Qué`, `Cómo` y `Para qué` en la descripción del objetivo para que este sea lo más claro posible para los estudiantes:
 
-2. Fill in the modal with the objective's description and click on the `Create` button. We suggest you to include the answers to the `What`, `How` and `Why` questions in the description of the objective to make it clear for the students:
+![Captura de pantalla con flechas señalando el formulario para agregar un nuevo objetivo y el botón para confirmar la creación](../../../../assets/teachers/rubrics/edit-rubric/add-objective-2.jpg)
 
-![Screenshot showing how to fill and submit the modal to add a new objective](../../../../assets/teachers/rubrics/edit-rubric/add-objective-2.jpg)
+Una vez que hayas creado el objetivo, aparecerá una notificación verde en la esquina inferior derecha de la pantalla, confirmando que el objetivo se ha creado correctamente y aparecerá una nueva fila con la tarjeta del objetivo y un botón para añadir criterios al objetivo:
 
-Once you have created the objective, a green notification will appear at the right-bottom corner of the screen, confirming that the objective has been created successfully and a row with the objective's card and a button to add criteria to it will appear in the rubric's edition view:
-
-![Screenshot showing the notification and the objective's card in the rubric's edition view](../../../../assets/teachers/rubrics/edit-rubric/add-objective-3.jpg)
+![Captura de pantalla mostrando la notificación y la tarjeta del objetivo en la vista de edición de la rúbrica](../../../../assets/teachers/rubrics/edit-rubric/add-objective-3.jpg)
 
 :::note
-Objectives do not have a weight, they are just a way to group criteria. The weight of the criteria will be used to grade the students' submissions.
+Los objetivos no tienen un peso o nota ya que solo son usados para agrupar criterios. Para calificar las entregas de los estudiantes, se usa el peso de los criterios.
 :::
 
-### Edit an objective
+### Editar un objetivo
 
-You can edit the description of an objective directly in the objective's card. To save the changes, click click on the dropdown menu of the objective's card (the three dots at the top-right corner of the card) and select the option with the `Save changes` label:
+Puedes editar la descripción de un objetivo directamente en la tarjeta del objetivo. Para guardar los cambios haz clic en el menú desplegable de la tarjeta del objetivo (los tres puntos en la esquina superior derecha de la tarjeta) y selecciona la opción con el texto `Save changes`:
 
-![Screenshot highlighting the button to save the changes of an objective](../../../../assets/teachers/rubrics/edit-rubric/edit-objective-1.jpg)
+![Captura de pantalla con flechas señalando el campo para editar la descripción de un objetivo y la opción para guardar los cambios en el menú desplegable](../../../../assets/teachers/rubrics/edit-rubric/edit-objective-1.jpg)
 
 :::caution
-Changes made to the objective's description **WILL NOT** be saved automatically, you need to click on the `Save changes` button to confirm the changes.
+Los cambios realizados a la descripción del objetivo **NO** se guardarán automáticamente, debes hacer clic en el botón `Save changes` para confirmar los cambios.
 :::
 
-### Delete an objective
+### Eliminar un objetivo
 
-To delete an objective, click on the dropdown menu of the objective's card (the three dots at the top-right corner of the card) and select the option with the `Delete objective` label:
+Para eliminar un objetivo, haz clic en el menú desplegable de la tarjeta del objetivo (los tres puntos en la esquina superior derecha de la tarjeta) y selecciona la opción con el texto `Delete objective`:
 
-![Screenshot highlighting the button to delete an objective](../../../../assets/teachers/rubrics/edit-rubric/delete-objective-1.jpg)
+![Captura de pantalla señalando la opción para eliminar un objetivo en el menú desplegable](../../../../assets/teachers/rubrics/edit-rubric/delete-objective-1.jpg)
 
-After that, a modal will appear asking you to confirm the deletion of the objective. Click on the `Proceed` button to confirm the deletion or click on the `Cancel` button to not delete the objective:
+Después de eso, aparecerá un modal preguntándote si deseas confirmar la eliminación del objetivo. Haz clic en el botón `Proceed` para confirmar la eliminación o haz clic en el botón `Cancel` para cancelar la acción:
 
-![Screenshot showing the modal to confirm the deletion of an objective](../../../../assets/teachers/rubrics/edit-rubric/delete-objective-2.jpg)
+![Captura de pantalla mostrando el modal para confirmar la eliminación de un objetivo](../../../../assets/teachers/rubrics/edit-rubric/delete-objective-2.jpg)
 
 :::caution
-Once you have deleted an objective, you will not be able to recover it. All the criteria of the objective will be deleted as well and the grades of the students' submissions that were using any of the criteria of the objective will be recalculated accordingly.
+Una vez que hayas eliminado un objetivo, no podrás recuperarlo. Todos los criterios del objetivo también serán eliminados y las notas de los estudiantes en las que se estuvieran usando los criterios del objetivo serán calculadas nuevamente de forma automática.
 :::
 
-### Add a criteria
+### Agregar un criterio
 
-To add a new criteria to an objective, follow these steps:
+Para agregar un nuevo criterio a un objetivo, sigue estos pasos:
 
-1. Click on the `Add criteria` button at the end of the objective's row (You may need to scroll to the right to see the button if the objective has many criteria):
+1. Haz clic en el botón `Add criteria` al final de la fila del objetivo (Puede que necesites desplazarte hacia la derecha para ver el botón si el objetivo tiene muchos criterios):
 
-![Screenshot highlighting the button to add a new criteria](../../../../assets/teachers/rubrics/edit-rubric/add-criteria-1.jpg)
+![Captura de pantalla con una flecha señalando el botón para agregar un nuevo criterio](../../../../assets/teachers/rubrics/edit-rubric/add-criteria-1.jpg)
 
-2. Fill in the modal with the criteria's description and weight:
+2. Completa el modal con la descripción y el peso del criterio:
 
-![Screenshot showing how to fill and submit the modal to add a new criteria](../../../../assets/teachers/rubrics/edit-rubric/add-criteria-2.jpg)
+![Captura de pantalla con flechas señalando el formulario para agregar un nuevo criterio y el botón para confirmar la creación](../../../../assets/teachers/rubrics/edit-rubric/add-criteria-2.jpg)
 
 :::note
-Remember that the weight of the criteria will be used to grade the students' submissions, you can use any number between `0` and `100`, including decimals with up to 6 digits of precision.
+Recuerda que el peso del criterio se usará para calificar las entregas de los estudiantes, puedes usar cualquier número entre `0` y `100`, incluyendo decimales con hasta 6 dígitos de precisión.
 :::
 
-Once you have created the criteria, a green notification will appear at the right-bottom corner of the screen, confirming that the criteria has been created successfully and a card with the criteria's description and weight will be added to the objective's row in the rubric's edition view:
+Una vez que hayas creado el criterio, aparecerá una notificación verde en la esquina inferior derecha de la pantalla, confirmando que el criterio se ha creado correctamente y se añadirá una tarjeta con la descripción y el peso del criterio a la fila del objetivo en la vista de edición de la rúbrica:
 
-![Screenshot showing the notification and the criteria's card in the rubric's edition view](../../../../assets/teachers/rubrics/edit-rubric/add-criteria-3.jpg)
+![Captura de pantalla mostrando la notificación y la tarjeta del criterio en la vista de edición de la rúbrica](../../../../assets/teachers/rubrics/edit-rubric/add-criteria-3.jpg)
 
-### Edit a criteria
+### Editar un criterio
 
-You can edit the description and weight of a criteria directly in the criteria's card. To save the changes, click click on the dropdown menu of the criteria's card (the three dots at the top-right corner of the card) and select the option with the `Save changes` label:
+Al igual que con los objetivos, puedes editar la descripción y el peso de un criterio directamente en la tarjeta del criterio. Para guardar los cambios haz clic en el menú desplegable de la tarjeta del criterio (los tres puntos en la esquina superior derecha de la tarjeta) y selecciona la opción con el texto `Save changes`:
 
-![Screenshot highlighting the button to save the changes of a criteria](../../../../assets/teachers/rubrics/edit-rubric/edit-criteria-1.jpg)
+![Captura de pantalla con flechas señalando los campos para editar la descripción y el peso de un criterio y la opción para guardar los cambios en el menú desplegable](../../../../assets/teachers/rubrics/edit-rubric/edit-criteria-1.jpg)
 
 :::caution
-Changes made to the criteria's description and weight **WILL NOT** be saved automatically, you need to click on the `Save changes` button to confirm the changes.
+Los cambios realizados a la descripción y el peso del criterio **NO** se guardarán automáticamente, debes hacer clic en el botón `Save changes` para confirmar los cambios.
 :::
 
-### Delete a criteria
+### Eliminar un criterio
 
-To delete a criteria, click on the dropdown menu of the criteria's card (the three dots at the top-right corner of the card) and select the option with the `Delete criteria` label:
+Para eliminar un criterio, haz clic en el menú desplegable de la tarjeta del criterio (los tres puntos en la esquina superior derecha de la tarjeta) y selecciona la opción con el texto `Delete criteria`:
 
-![Screenshot highlighting the button to delete a criteria](../../../../assets/teachers/rubrics/edit-rubric/delete-criteria-1.jpg)
+![Captura de pantalla señalando la opción para eliminar un criterio en el menú desplegable](../../../../assets/teachers/rubrics/edit-rubric/delete-criteria-1.jpg)
 
-After that, a modal will appear asking you to confirm the deletion of the criteria. Click on the `Proceed` button to confirm the deletion or click on the `Cancel` button to not delete the criteria:
+Después de eso, aparecerá un modal preguntándote si deseas confirmar la eliminación del criterio. Haz clic en el botón `Proceed` para confirmar la eliminación o haz clic en el botón `Cancel` para cancelar la acción:
 
-![Screenshot showing the modal to confirm the deletion of a criteria](../../../../assets/teachers/rubrics/edit-rubric/delete-criteria-2.jpg)
+![Captura de pantalla mostrando el modal para confirmar la eliminación de un criterio](../../../../assets/teachers/rubrics/edit-rubric/delete-criteria-2.jpg)
 
 :::caution
-Once you have deleted a criteria, you will not be able to recover it. The grades of the students' submissions that were using the criteria will be recalculated accordingly.
+Una vez que hayas eliminado un criterio, no podrás recuperarlo. Las notas de los estudiantes en las que se estuviera usando el criterio serán calculadas nuevamente de forma automática.
 :::
 
-## Delete a rubric
+## Eliminar una rúbrica
 
-To delete a rubric, click on the `Delete` button in the rubric's row:
+Para eliminar una rúbrica, haz clic en el botón `Delete` en la fila de la rúbrica:
 
-![Screenshot highlighting the button to delete a rubric](../../../../assets/teachers/rubrics/delete-rubric/1.jpg)
+![Captura de pantalla con una flecha señalando el botón para eliminar una rúbrica](../../../../assets/teachers/rubrics/delete-rubric/1.jpg)
 
-After that, a modal will appear asking you to confirm the deletion of the rubric. Click on the `Proceed` button to confirm the deletion or click on the `Cancel` button to not delete the rubric:
+Después de eso, aparecerá un modal preguntándote si deseas confirmar la eliminación de la rúbrica. Haz clic en el botón `Proceed` para confirmar la eliminación o haz clic en el botón `Cancel` para cancelar la acción:
 
-![Screenshot showing the modal to confirm the deletion of a rubric](../../../../assets/teachers/rubrics/delete-rubric/2.jpg)
+![Captura de pantalla mostrando el modal para confirmar la eliminación de una rúbrica](../../../../assets/teachers/rubrics/delete-rubric/2.jpg)
 
 :::caution
-Once you have deleted a rubric, you will not be able to recover it. All the grades of the students' submissions that were using the rubric will be lost and the laboratories that were using the rubric will be updated to not use any rubric.
+Una vez que hayas eliminado una rúbrica, no podrás recuperarla. Todas las notas de los estudiantes calculadas a partir de la rúbrica serán eliminadas también y los laboratorios en los que la rúbrica estaba asignada serán actualizados para no usar ninguna rúbrica.
 :::

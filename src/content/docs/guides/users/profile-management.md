@@ -1,44 +1,42 @@
 ---
-title: Profile management
-description: A guide for users to update their profile information and change their password in the Code Labs platform.
+title: Guía gestión de perfil de usuario
+description: Documento de guía para que los usuarios actualicen su información de perfil y cambien su contraseña en la plataforma Code Labs.
 ---
 
-## Update profile information
+## Actualizar información de perfil
 
-Once you have logged in to the platform, you can access your profile view by clicking on the `Profile` tab in the top navigation bar.
+Una vez que hayas iniciado sesión en la plataforma, puedes acceder a la vista de tu perfil haciendo clic en la pestaña `Profile` en la barra de navegación superior. Una vez allí, sigue estos pasos para actualizar tu información de perfil:
 
-To update your profile information, follow these steps:
+1. Haz clic en la pestaña `Update Profile` (la cual se encuentra activa por defecto) y completa el formulario con la nueva información que deseas actualizar:
 
-1. Click on the `Update profile` tab (active by default) and fill in the form with the new information you want to update:
-
-![Screenshot showing the form to update the profile information](../../../../assets/users/profile/update-profile/1.jpg)
+![Captura de pantalla mostrando el formulario para actualizar la información del perfil de usuario](../../../../assets/users/profile/update-profile/1.jpg)
 
 :::note
-Keep in mind that:
+Ten en cuenta que:
 
-- All the users can update their `Full name` and `Email` fields.
+- Todos los usuarios pueden actualizar sus campos de `Full name` y `Email`.
 
-- Only students can update their `Institutional ID` field. In the case of `admins` and `teachers`, the field will be empty since it is not required for them.
+- Solo los estudiantes pueden actualizar su campo de `Institutional ID`. En el caso de los administradores y profesores, el campo estará vacío y no se podrá actualizar ya que no es requerido para ellos.
 
-- `students`'s and `teachers`'s `Email` field must end with the `UPB` domain, otherwise, the form validation will fail.
+- En el caso de estudiantes y profesores, el campo `Email` debe terminar con el dominio de la `UPB`, de lo contrario, la validación del formulario fallará.
   :::
 
-2. Once you have filled in the form, you will also need to fill in the `Password confirmation` field with your current password to confirm the changes in order to prevent unauthorized changes. After that, click on the `Update` button:
+2. Una vez que hayas completado el formulario, también deberás completar el campo `Password confirmation` con tu contraseña actual para confirmar los cambios y prevenir cambios no autorizados. Después de eso, haz clic en el botón `Update`:
 
-![Screenshot showing the form to update the profile information and the password confirmation field](../../../../assets/users/profile/update-profile/2.jpg)
+![Captura de pantalla mostrando el formulario para actualizar la información del perfil y el campo de confirmación de contraseña](../../../../assets/users/profile/update-profile/2.jpg)
 
-After that, a green notification will appear at the right-bottom corner of the screen, confirming that the profile information has been updated successfully or a red notification will appear if the credentials were incorrect or any other error occurred.
+Después de eso, aparecerá una notificación verde en la esquina inferior derecha de la pantalla, confirmando que la información del perfil se ha actualizado correctamente o aparecerá una notificación roja si las credenciales eran incorrectas o si ocurrió algún otro error.
 
-## Change password
+## Cambiar contraseña
 
-To change your password, follow these steps:
+Para cambiar tu contraseña, sigue estos pasos:
 
-1. Click on the `Change password` tab and fill in the `New password` and `Confirm new password` fields with the new password you want to use:
+1. Haz clic en la pestaña `Change password` y completa los campos `New password` y `Confirm new password` con la nueva contraseña que deseas usar:
 
-![Screenshot showing the form to change the password](../../../../assets/users/profile/change-password/1.jpg)
+![Captura de pantalla resaltando los campos para cambiar la contraseña en el formulario](../../../../assets/users/profile/change-password/1.jpg)
 
-2. Once you have filled in the form, you will also need to fill in the `Current password` field with your current password to confirm the changes in order to prevent unauthorized changes. After that, click on the `Change` button:
+2. Una vez que hayas completado el formulario, también deberás completar el campo `Current password` con tu contraseña actual para confirmar los cambios y prevenir cambios no autorizados. Después de eso, haz clic en el botón `Change`:
 
-![Screenshot showing the form to change the password and the current password field](../../../../assets/users/profile/change-password/2.jpg)
+![Captura de pantalla resaltando el campo para confirmar la contraseña actual y el botón para confirmar el cambio de contraseña](../../../../assets/users/profile/change-password/2.jpg)
 
-After that, a green notification will appear at the right-bottom corner of the screen, confirming that the password has been changed successfully or a red notification will appear if the credentials were incorrect or any other error occurred.
+Después de eso, aparecerá una notificación verde en la esquina inferior derecha de la pantalla, confirmando que la contraseña se ha cambiado correctamente o aparecerá una notificación roja si las credenciales eran incorrectas o si ocurrió algún otro error.

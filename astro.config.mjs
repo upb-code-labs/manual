@@ -6,43 +6,51 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Code Labs manual',
+			defaultLocale: 'es', 
+			locales: {
+				root: {
+					label: 'Español',
+					lang: 'es',
+				}
+			},
 			social: {
 				github: 'https://github.com/upb-code-labs',
 			},
 			sidebar: [
 				{
-					label: 'Getting Started',
+					label: 'Introduction',
 					items: [
 						{ label: 'Introduction', link: '/guides/introduction/' },
 					]
 				},
 				{
-					label: 'Users (General)',
+					label: 'Usuarios (General)',
 					items: [
-						{ label: 'Profile management', link: '/guides/users/profile-management' },
+						{label: 'Gestión de perfil de usuario', link: '/guides/users/profile-management'},
 					]
 				},
 				{
-					label: 'Admins',
+					label: 'Administradores',
 					items: [
 						// { label: 'Introduction', link: '/guides/introduction/' },
 					]
 				},
 				{
-					label: 'Teachers',
+					label: 'Profesores',
 					items: [
-						{ label: 'Courses management', link: '/guides/teachers/courses-management' },
-						{ label: 'Rubrics management', link: '/guides/teachers/rubrics-management' },
+						{ label: 'Gestión de cursos', link: '/guides/teachers/courses-management' },
+						{ label: 'Gestión de rúbricas', link: '/guides/teachers/rubrics-management' },
+						{ label: 'Gestión de laboratorios', link: '/guides/teachers/laboratories-management' },
 					]
 				},
 				{
-					label: 'Students',
+					label: 'Estudiantes',
 					items: [
 						//{ label: 'Introduction', link: '/guides/introduction/' },
 					]
 				},
 				{
-					label: 'Maintainers',
+					label: "Desarrolladores y/o mantenedores",
 					items: [
 						//{ label: 'Introduction', link: '/guides/introduction/' },
 					]

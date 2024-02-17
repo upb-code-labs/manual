@@ -1,72 +1,66 @@
 ---
-title: Courses management
-description: A guide for teachers to create, rename, hide and copy the invitation code of a course in the Code Labs platform.
+title: Gestión de cursos
+description: Documento de guía para que los profesores creen, renombren, oculten y copien el código de invitación de un curso en la plataforma Code Labs.
 ---
 
-## Create a new course
+## Crear un nuevo curso
 
-Once you have logged in to the platform, you will be redirected to the view of the courses you've created. To create a new course, follow these steps:
+Una vez que hayas iniciado sesión en la plataforma, serás redirigido a la vista de los cursos que has creado. Para crear un nuevo curso, sigue estos pasos:
 
-1. Click on the `Create a new course` button:
+1. Haz clic en el botón `Create a new course`:
 
-![Create a new course](../../../../assets/teachers/courses/create-course/1.jpg)
+![Captura de pantalla con una flecha señalando el botón para crear un nuevo curso](../../../../assets/teachers/courses/create-course/1.jpg)
 
-2. Fill in the modal with the course's name. We suggest you to use a descriptive enough name so that your students can easily identify the course, a good example would be `Data Structures NRC 1234`. Once you have filled in the name, click on the `Create` button:
+2. Ingresa el nombre del curso en el modal. Te sugerimos que uses un nombre lo suficientemente descriptivo para que tus estudiantes puedan identificar fácilmente el curso, un buen ejemplo sería `Estructuras de datos NRC 1234`. Una vez que hayas ingresado el nombre, haz clic en el botón `Create`:
 
-![Fill in the modal to create a new course](../../../../assets/teachers/courses/create-course/2.jpg)
+![Captura de pantalla mostrando el modal para crear un nuevo curso](../../../../assets/teachers/courses/create-course/2.jpg)
 
-:::note
-You can change the course's name later on if you need to.
-:::
+Una vez que hayas creado el curso, aparecerá una notificación verde en la esquina inferior derecha de la pantalla, confirmando que el curso se ha creado correctamente y aparecerá una tarjeta con las iniciales y el nombre del curso en la vista de cursos.
 
-Once you have created the course, a green notification will appear at the right-bottom corner of the screen, confirming that the course has been created successfully and a card with the course's initials and name will appear in the courses view:
-
-![Course created](../../../../assets/teachers/courses/create-course/3.jpg)
+![Captura de pantalla mostrando la alerta de confirmación y la tarjeta del curso creado](../../../../assets/teachers/courses/create-course/3.jpg)
 
 :::note
-A random color will be assigned to the course, you cannot change it since it is a purely aesthetic feature.
+Se asignará un color aleatorio al curso, no podrás cambiarlo ya que es una característica puramente estética.
 :::
 
-## Rename a course
+## Renombrar un curso
 
-To rename a course, follow these steps:
+Para renombrar un curso, sigue estos pasos:
 
-1. Click on the dropdown menu of the course you want to rename (the three dots at the top-right corner of the course's card) and select the option with the `Rename course` label:
+1. Haz clic en el menú desplegable del curso que deseas renombrar (los tres puntos en la esquina superior derecha de la tarjeta del curso) y selecciona la opción cone el texto `Rename course`:
 
-![Dropdown menu](../../../../assets/teachers/courses/rename-course/1.jpg)
+![Captura de pantalla mostrando cómo seleccionar la opción para renombrar un curso](../../../../assets/teachers/courses/rename-course/1.jpg)
 
-2. Fill in the modal with the new name of the course and click on the `Rename` button:
+2. Completa el modal con el nuevo nombre del curso y haz clic en el botón `Rename`:
 
-![Fill in the modal to rename the course](../../../../assets/teachers/courses/rename-course/2.jpg)
+![Captura de pantalla mostrando el modal para renombrar el curso](../../../../assets/teachers/courses/rename-course/2.jpg)
 
-After that, a green notification will appear at the right-bottom corner of the screen, confirming that the course has been renamed successfully and the course's card will be updated with the new name.
+Después de eso, aparecerá una notificación verde en la esquina inferior derecha de la pantalla, confirmando que el curso se ha renombrado correctamente y la tarjeta del curso se actualizará con el nuevo nombre.
 
-## Change visibility of a course
+## Cambiar la visibilidad de un curso
 
-### Hide a course
+### Ocultar un curso
 
 :::note
-Hiding a course wont delete it nor prevent students from accessing it, it will only hide it from the courses view to keep it organized.
+Ocultar un curso no lo eliminará ni evitará que los estudiantes accedan a él, solo lo ocultará de la vista de cursos para permitirte organizar mejor tus cursos.
 :::
 
-To hide a course, click on the dropdown menu of the course you want to hide (the three dots at the top-right corner of the course's card) and select the option with the `Hide course` label:
+Para ocultar un curso, haz clic en el menú desplegable del curso que deseas ocultar (los tres puntos en la esquina superior derecha de la tarjeta del curso) y selecciona la opción cone el texto `Hide course`:
 
-![Hide a course](../../../../assets/teachers/courses/hide-course/1.jpg)
+![Captura de pantalla mostrando cómo seleccionar la opción para ocultar un curso](../../../../assets/teachers/courses/hide-course/1.jpg)
 
-After that, a green notification will appear at the right-bottom corner of the screen, confirming that the course has been hidden successfully and the course's card will disappear from the visible courses section.
+Después de eso, aparecerá una notificación verde en la esquina inferior derecha de la pantalla, confirmando que el curso se ha ocultado correctamente y la tarjeta del curso desaparecerá de la sección de cursos visibles.
 
-### Show a hidden course
+### Mostrar un curso oculto
 
-If you want to show the course again, you can do it by clicking on the `Hidden courses` toggle below the visible courses cards and then clicking on the dropdown menu of the course you want to show and selecting the option with the `Show course` label.
+Si deseas mostrar el curso nuevamente, puedes hacerlo haciendo clic en la sección `Hidden courses` para mostrar los cursos ocultos y luego seleccionando la opción `Show course` del menú desplegable del curso que deseas mostrar:
 
-![Show hidden courses](../../../../assets/teachers/courses/hide-course/2.jpg)
+![Captura de pantalla mostrando cómo seleccionar la opción para mostrar un curso oculto](../../../../assets/teachers/courses/hide-course/2.jpg)
 
-## Copy the invitation code of a course
+## Copiar el código de invitación de un curso
 
-When you create a new course, an invitation code is generated automatically to allow students to join the course.
+Cuando creas un nuevo curso, se genera automáticamente un código de invitación para permitir que los estudiantes se unan al curso. Para copiar el código de invitación de un curso, haz clic en el menú desplegable del curso del que deseas copiar el código de invitación (los tres puntos en la esquina superior derecha de la tarjeta del curso) y selecciona la opción con el texto `Copy invitation code`:
 
-To copy the invitation code of a course, click on the dropdown menu of the course you want to copy the invitation code of (the three dots at the top-right corner of the course's card) and select the option with the `Copy invitation code` label:
+![Captura de pantalla mostrando cómo seleccionar la opción para copiar el código de invitación de un curso](../../../../assets/teachers/courses/invitation-code/1.jpg)
 
-![Copy the invitation code of a course](../../../../assets/teachers/courses/invitation-code/1.jpg)
-
-After that, a green notification will appear at the right-bottom corner of the screen, confirming that the invitation code has been copied to the clipboard and you can paste it wherever you need to by pressing `Ctrl + V` or `Cmd + V` on your keyboard or right-clicking and selecting the `Paste` option, as you would do with any other copied text.
+Después de eso, aparecerá una notificación verde en la esquina inferior derecha de la pantalla, confirmando que el código de invitación se ha copiado al portapapeles y podrás pegarlo donde lo necesites presionando `Ctrl + V` o `Cmd + V` en tu teclado o haciendo clic derecho y seleccionando la opción `Pegar`, como lo harías con cualquier otro texto copiado.
