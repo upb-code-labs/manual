@@ -161,7 +161,7 @@ El primer gráfico es un gráfico de barras horizontal cuyo eje `X` representa c
 
 ![Captura de pantalla mostrando el gráfico de barras horizontal con el progreso de los estudiantes en el laboratorio](../../../../assets/teachers/laboratories/monitor-laboratory/2.jpg)
 
-Si requieres actualizar la información, puedes hacer click en el botón con el icono de recargar en la esquina superior derecha del gráfico.
+Si requieres actualizar la información, puedes hacer clic en el botón con el icono de recargar en la esquina superior derecha del gráfico.
 
 El segundo y tercer gráfico son gráficos de dona que muestran el porcentaje de estudiantes que han completado todas las pruebas (bloques de prueba) y el promedio de pruebas completadas por los estudiantes, respectivamente:
 

@@ -79,7 +79,7 @@ Los estudiantes pueden unirse a un curso utilizando el código de invitación qu
 
 ![Captura de pantalla mostrando cómo seleccionar un curso para añadir un estudiante](../../../../assets/teachers/courses/add-student/1.jpg)
 
-2. Por defecto, serás redirigido a la pestaña `Laboratories` de la vista del curso. Para cambiar a la pestaña de participantes, haz click en la opción `Manage participants` en la barra lateral de la vista del curso para acceder a la tabla de estudiantes inscritos en el curso:
+2. Por defecto, serás redirigido a la pestaña `Laboratories` de la vista del curso. Para cambiar a la pestaña de participantes, haz clic en la opción `Manage participants` en la barra lateral de la vista del curso para acceder a la tabla de estudiantes inscritos en el curso:
 
 ![Captura de pantalla mostrando cómo cambiar a la pestaña de participantes en la vista del curso](../../../../assets/teachers/courses/add-student/2.jpg)
 

@@ -27,15 +27,15 @@ Para modificar las notas de los estudiantes en un laboratorio, sigue estos pasos
 El comentario que agregues al estudiante **NO** se guardará automáticamente, deberás hacer clic en el botón `Update comment` para guardar los cambios.
 :::
 
-Por otra parte, en la pestaña `Submissions`, encontrarás una lista con las soluciones que el estudiante ha enviado a los diferentes bloques de pruebas del laboratorio. Si deseas descargar el código enviado por el estudiante, puedes hacer click en el botón con el icono de descarga:
+Por otra parte, en la pestaña `Submissions`, encontrarás una lista con las soluciones que el estudiante ha enviado a los diferentes bloques de pruebas del laboratorio. Si deseas descargar el código enviado por el estudiante, puedes hacer clic en el botón con el icono de descarga:
 
 ![Captura de pantalla mostrando la lista de soluciones enviadas por el estudiante](../../../../assets/teachers/grades/4.jpg)
 
-4. Finalmente, para calificar al estudiante, simplemente tienes que hacer click en la tarjeta del criterio que deseas seleccionar. **NO** es necesario hacer click en el botón `Update comment` para guardar los cambios, ya que la nota del estudiante se actualiza automáticamente al seleccionar un criterio y **el botón mencionado únicamente guarda los cambios realizados en el comentario**.
+4. Finalmente, para calificar al estudiante, simplemente tienes que hacer clic en la tarjeta del criterio que deseas seleccionar. **NO** es necesario hacer clic en el botón `Update comment` para guardar los cambios, ya que la nota del estudiante se actualiza automáticamente al seleccionar un criterio y **el botón mencionado únicamente guarda los cambios realizados en el comentario**.
 
 ![Captura de pantalla mostrando la selección de un criterio para calificar al estudiante](../../../../assets/teachers/grades/5.jpg)
 
-Los criterios seleccionados se destacarán con un borde de color morado y el campo `Grade` mostrará la sumatoria de las notas de los criterios seleccionados. Si deseas deshacer la selección de un criterio, simplemente haz click nuevamente en la tarjeta del criterio.
+Los criterios seleccionados se destacarán con un borde de color morado y el campo `Grade` mostrará la sumatoria de las notas de los criterios seleccionados. Si deseas deshacer la selección de un criterio, simplemente haz clic nuevamente en la tarjeta del criterio.
 
 :::note
 Solo es posible seleccionar un criterio por cada objetivo de la rúbrica. Si, habiendo seleccionado un criterio para un objetivo, seleccionas otro criterio para el mismo objetivo, la selección anterior se desmarcará automáticamente y se seleccionará el nuevo criterio, actualizando la nota del estudiante acorde a la nueva selección.

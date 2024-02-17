@@ -29,7 +29,7 @@ Antes de aprender a completar un laboratorio, debes saber que un laboratorio est
 
 Para enviar tu código a través de los bloques de pruebas, sigue estos pasos:
 
-1. Descarga el `template` del lenguaje de programación seleccionado por el profesor haciendo click en el botón con el icono de descarga:
+1. Descarga el `template` del lenguaje de programación seleccionado por el profesor haciendo clic en el botón con el icono de descarga:
 
 ![Captura de pantalla con una flecha señalando el botón de descarga](../../../../assets/students/laboratories/complete-laboratory/1.jpg)
 
